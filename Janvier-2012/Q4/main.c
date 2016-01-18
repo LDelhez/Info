@@ -3,8 +3,8 @@
 #include <stdlib.h>
 
 int main() {
-  const int N = 2;
-  int* tab = malloc(N* sizeof(int));
+  const int N = 20;
+  int* tab = malloc(N* sizeof(int)); // tableau de N entiers
 
    /* Intializes random number generator */
   time_t t;
@@ -16,7 +16,7 @@ int main() {
   }
 
 
-  int ans = longueur_prefixe_suffixe(tab, N); 
+  int ans = longueur_prefixe_suffixe(tab, N); // calcule la longueur max
 
   printf("%d\n", ans);
 
