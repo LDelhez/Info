@@ -1,7 +1,7 @@
 #Question 1
 
 ## 1.
-```
+```c
 #include <stdio.h>
 
 typedef struct de_t{
