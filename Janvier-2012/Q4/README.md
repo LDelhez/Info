@@ -1,8 +1,8 @@
 #Question 4
 
-Le fichier `prog_naive.c' contient l'implémentation du prof.
+Le fichier `prog_naive.c` contient l'implémentation du prof.
 
-Le fichier `prog_best.c' contient mon implémentation.
+Le fichier `prog_best.c` contient mon implémentation.
 
 ##Performances
 
