@@ -15,7 +15,6 @@ int main() {
     tab[i] = rand();
   }
 
-
   int ans = longueur_prefixe_suffixe(tab, N); // calcule la longueur max
 
   printf("%d\n", ans);
