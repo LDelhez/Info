@@ -36,7 +36,8 @@ Il y a trois erreurs de syntaxe.
 
 **Pas vu cette année.**
 
-_Pour votre culture, _
+*Pour votre culture,*
+
 En complément à 2 sur 8 bits, `10000000` correspond au nombre `0`.
 
 ##3.
