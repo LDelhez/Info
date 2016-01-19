@@ -24,7 +24,9 @@
 ##2.A
 
 Sp 1 : Calculer la profondeur avec la plus grande somme (calculer toutes les sommes)
+
 Sp 2 : Calculer la somme `som` de la profondeur `p`
+
 Sp 3 : Ajouter a `som` la valeur de chaque case du cadre de profondeur `p`
 
 Boucles :
