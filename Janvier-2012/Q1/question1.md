@@ -38,7 +38,7 @@ Il y a trois erreurs de syntaxe.
 
 *Pour votre culture,*
 
-En complément à 2 sur 8 bits, `10000000` correspond au nombre `0`.
+En complément à 2 sur 8 bits, `10000000` correspond au nombre `-128`.
 
 ##3.
 ```c
